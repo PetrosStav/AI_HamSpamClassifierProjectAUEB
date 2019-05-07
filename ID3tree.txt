@@ -1,0 +1,623 @@
+\-- ENRON
+    |-- false
+    \-- LOUISE
+        |-- false
+        \-- !
+            |-- true
+            \-- HTTP
+                |-- true
+                \-- 2001
+                    |-- false
+                    \-- HERE
+                        |-- 01
+                        |   |-- false
+                        |   \-- STOP
+                        |       |-- true
+                        |       \-- MEETING
+                        |           |-- false
+                        |           \-- GAS
+                        |               |-- THE
+                        |               |   |-- false
+                        |               |   \-- true
+                        |               \-- THE
+                        |                   |-- THOUSAND
+                        |                   |   |-- true
+                        |                   |   \-- MONDAY
+                        |                   |       |-- false
+                        |                   |       \-- CALL
+                        |                   |           |-- MESSAGE
+                        |                   |           |   |-- true
+                        |                   |           |   \-- 2005
+                        |                   |           |       |-- true
+                        |                   |           |       \-- AM
+                        |                   |           |           |-- SENT
+                        |                   |           |           |   |-- false
+                        |                   |           |           |   \-- LET
+                        |                   |           |           |       |-- true
+                        |                   |           |           |       \-- false
+                        |                   |           |           \-- false
+                        |                   |           \-- QUESTIONS
+                        |                   |               |-- false
+                        |                   |               \-- ATTACHED
+                        |                   |                   |-- false
+                        |                   |                   \-- 2005
+                        |                   |                       |-- true
+                        |                   |                       \-- I
+                        |                   |                           |-- |
+                        |                   |                           |   |-- true
+                        |                   |                           |   \-- ORIGINAL
+                        |                   |                           |       |-- false
+                        |                   |                           |       \-- JOHN
+                        |                   |                           |           |-- AM
+                        |                   |                           |           |   |-- true
+                        |                   |                           |           |   \-- false
+                        |                   |                           |           \-- WEDNESDAY
+                        |                   |                           |               |-- false
+                        |                   |                           |               \-- MESSAGE
+                        |                   |                           |                   |-- true
+                        |                   |                           |                   \-- SUBJECT
+                        |                   |                           |                       |-- false
+                        |                   |                           |                       \-- DAVID
+                        |                   |                           |                           |-- false
+                        |                   |                           |                           \-- HOUSTON
+                        |                   |                           |                               |-- false
+                        |                   |                           |                               \-- KNOW
+                        |                   |                           |                                   |-- MARK
+                        |                   |                           |                                   |   |-- AM
+                        |                   |                           |                                   |   |   |-- false
+                        |                   |                           |                                   |   |   \-- true
+                        |                   |                           |                                   |   \-- LET
+                        |                   |                           |                                   |       |-- AM
+                        |                   |                           |                                   |       |   |-- PM
+                        |                   |                           |                                   |       |   |   |-- false
+                        |                   |                           |                                   |       |   |   \-- true
+                        |                   |                           |                                   |       |   \-- false
+                        |                   |                           |                                   |       \-- AM
+                        |                   |                           |                                   |           |-- PM
+                        |                   |                           |                                   |           |   |-- false
+                        |                   |                           |                                   |           |   \-- KITCHEN
+                        |                   |                           |                                   |           |       |-- false
+                        |                   |                           |                                   |           |       \-- CC
+                        |                   |                           |                                   |           |           |-- true
+                        |                   |                           |                                   |           |           \-- SENT
+                        |                   |                           |                                   |           |               |-- false
+                        |                   |                           |                                   |           |               \-- 713
+                        |                   |                           |                                   |           |                   |-- false
+                        |                   |                           |                                   |           |                   \-- FW
+                        |                   |                           |                                   |           |                       |-- false
+                        |                   |                           |                                   |           |                       \-- 853
+                        |                   |                           |                                   |           |                           |-- false
+                        |                   |                           |                                   |           |                           \-- OO
+                        |                   |                           |                                   |           |                               |-- false
+                        |                   |                           |                                   |           |                               \-- true
+                        |                   |                           |                                   |           \-- PM
+                        |                   |                           |                                   |               |-- false
+                        |                   |                           |                                   |               \-- KITCHEN
+                        |                   |                           |                                   |                   |-- false
+                        |                   |                           |                                   |                   \-- CC
+                        |                   |                           |                                   |                       |-- false
+                        |                   |                           |                                   |                       \-- SENT
+                        |                   |                           |                                   |                           |-- false
+                        |                   |                           |                                   |                           \-- 713
+                        |                   |                           |                                   |                               |-- false
+                        |                   |                           |                                   |                               \-- FW
+                        |                   |                           |                                   |                                   |-- false
+                        |                   |                           |                                   |                                   \-- 853
+                        |                   |                           |                                   |                                       |-- false
+                        |                   |                           |                                   |                                       \-- OO
+                        |                   |                           |                                   |                                           |-- true
+                        |                   |                           |                                   |                                           \-- false
+                        |                   |                           |                                   \-- LET
+                        |                   |                           |                                       |-- MARK
+                        |                   |                           |                                       |   |-- false
+                        |                   |                           |                                       |   \-- true
+                        |                   |                           |                                       \-- MARK
+                        |                   |                           |                                           |-- AM
+                        |                   |                           |                                           |   |-- PM
+                        |                   |                           |                                           |   |   |-- KITCHEN
+                        |                   |                           |                                           |   |   |   |-- false
+                        |                   |                           |                                           |   |   |   \-- CC
+                        |                   |                           |                                           |   |   |       |-- SENT
+                        |                   |                           |                                           |   |   |       |   |-- true
+                        |                   |                           |                                           |   |   |       |   \-- false
+                        |                   |                           |                                           |   |   |       \-- false
+                        |                   |                           |                                           |   |   \-- KITCHEN
+                        |                   |                           |                                           |   |       |-- true
+                        |                   |                           |                                           |   |       \-- CC
+                        |                   |                           |                                           |   |           |-- true
+                        |                   |                           |                                           |   |           \-- SENT
+                        |                   |                           |                                           |   |               |-- false
+                        |                   |                           |                                           |   |               \-- 713
+                        |                   |                           |                                           |   |                   |-- false
+                        |                   |                           |                                           |   |                   \-- FW
+                        |                   |                           |                                           |   |                       |-- false
+                        |                   |                           |                                           |   |                       \-- 853
+                        |                   |                           |                                           |   |                           |-- false
+                        |                   |                           |                                           |   |                           \-- OO
+                        |                   |                           |                                           |   |                               |-- true
+                        |                   |                           |                                           |   |                               \-- false
+                        |                   |                           |                                           |   \-- true
+                        |                   |                           |                                           \-- AM
+                        |                   |                           |                                               |-- true
+                        |                   |                           |                                               \-- SENT
+                        |                   |                           |                                                   |-- false
+                        |                   |                           |                                                   \-- PM
+                        |                   |                           |                                                       |-- false
+                        |                   |                           |                                                       \-- KITCHEN
+                        |                   |                           |                                                           |-- false
+                        |                   |                           |                                                           \-- CC
+                        |                   |                           |                                                               |-- 713
+                        |                   |                           |                                                               |   |-- false
+                        |                   |                           |                                                               |   \-- FW
+                        |                   |                           |                                                               |       |-- false
+                        |                   |                           |                                                               |       \-- 853
+                        |                   |                           |                                                               |           |-- false
+                        |                   |                           |                                                               |           \-- OO
+                        |                   |                           |                                                               |               |-- false
+                        |                   |                           |                                                               |               \-- PHP
+                        |                   |                           |                                                               |                   |-- false
+                        |                   |                           |                                                               |                   \-- POWER
+                        |                   |                           |                                                               |                       |-- false
+                        |                   |                           |                                                               |                       \-- false
+                        |                   |                           |                                                               \-- 713
+                        |                   |                           |                                                                   |-- false
+                        |                   |                           |                                                                   \-- FW
+                        |                   |                           |                                                                       |-- false
+                        |                   |                           |                                                                       \-- 853
+                        |                   |                           |                                                                           |-- false
+                        |                   |                           |                                                                           \-- OO
+                        |                   |                           |                                                                               |-- true
+                        |                   |                           |                                                                               \-- false
+                        |                   |                           \-- true
+                        |                   \-- true
+                        \-- ATTACHED
+                            |-- false
+                            \-- 01
+                                |-- false
+                                \-- MEETING
+                                    |-- false
+                                    \-- I
+                                        |-- KNOW
+                                        |   |-- false
+                                        |   \-- JOHN
+                                        |       |-- false
+                                        |       \-- 713
+                                        |           |-- false
+                                        |           \-- MONDAY
+                                        |               |-- false
+                                        |               \-- SENT
+                                        |                   |-- STOP
+                                        |                   |   |-- true
+                                        |                   |   \-- 2005
+                                        |                   |       |-- true
+                                        |                   |       \-- THOUSAND
+                                        |                   |           |-- true
+                                        |                   |           \-- false
+                                        |                   \-- THE
+                                        |                       |-- CALL
+                                        |                       |   |-- false
+                                        |                       |   \-- POWER
+                                        |                       |       |-- false
+                                        |                       |       \-- MESSAGE
+                                        |                       |           |-- true
+                                        |                       |           \-- LET
+                                        |                       |               |-- true
+                                        |                       |               \-- MARK
+                                        |                       |                   |-- AM
+                                        |                       |                   |   |-- DAVID
+                                        |                       |                   |   |   |-- true
+                                        |                       |                   |   |   \-- false
+                                        |                       |                   |   \-- QUESTIONS
+                                        |                       |                   |       |-- false
+                                        |                       |                   |       \-- ORIGINAL
+                                        |                       |                   |           |-- false
+                                        |                       |                   |           \-- PM
+                                        |                       |                   |               |-- false
+                                        |                       |                   |               \-- KITCHEN
+                                        |                       |                   |                   |-- false
+                                        |                       |                   |                   \-- SUBJECT
+                                        |                       |                   |                       |-- false
+                                        |                       |                   |                       \-- CC
+                                        |                       |                   |                           |-- false
+                                        |                       |                   |                           \-- FW
+                                        |                       |                   |                               |-- false
+                                        |                       |                   |                               \-- 853
+                                        |                       |                   |                                   |-- false
+                                        |                       |                   |                                   \-- |
+                                        |                       |                   |                                       |-- false
+                                        |                       |                   |                                       \-- OO
+                                        |                       |                   |                                           |-- true
+                                        |                       |                   |                                           \-- 2005
+                                        |                       |                   |                                               |-- false
+                                        |                       |                   |                                               \-- PHP
+                                        |                       |                   |                                                   |-- false
+                                        |                       |                   |                                                   \-- STOP
+                                        |                       |                   |                                                       |-- false
+                                        |                       |                   |                                                       \-- GAS
+                                        |                       |                   |                                                           |-- false
+                                        |                       |                   |                                                           \-- DAVID
+                                        |                       |                   |                                                               |-- false
+                                        |                       |                   |                                                               \-- WEDNESDAY
+                                        |                       |                   |                                                                   |-- false
+                                        |                       |                   |                                                                   \-- HOUSTON
+                                        |                       |                   |                                                                       |-- false
+                                        |                       |                   |                                                                       \-- THOUSAND
+                                        |                       |                   |                                                                           |-- false
+                                        |                       |                   |                                                                           \-- false
+                                        |                       |                   \-- PM
+                                        |                       |                       |-- ORIGINAL
+                                        |                       |                       |   |-- false
+                                        |                       |                       |   \-- KITCHEN
+                                        |                       |                       |       |-- false
+                                        |                       |                       |       \-- SUBJECT
+                                        |                       |                       |           |-- false
+                                        |                       |                       |           \-- CC
+                                        |                       |                       |               |-- true
+                                        |                       |                       |               \-- false
+                                        |                       |                       \-- QUESTIONS
+                                        |                       |                           |-- false
+                                        |                       |                           \-- FW
+                                        |                       |                               |-- false
+                                        |                       |                               \-- HOUSTON
+                                        |                       |                                   |-- false
+                                        |                       |                                   \-- ORIGINAL
+                                        |                       |                                       |-- KITCHEN
+                                        |                       |                                       |   |-- false
+                                        |                       |                                       |   \-- SUBJECT
+                                        |                       |                                       |       |-- false
+                                        |                       |                                       |       \-- CC
+                                        |                       |                                       |           |-- true
+                                        |                       |                                       |           \-- AM
+                                        |                       |                                       |               |-- false
+                                        |                       |                                       |               \-- 853
+                                        |                       |                                       |                   |-- false
+                                        |                       |                                       |                   \-- |
+                                        |                       |                                       |                       |-- false
+                                        |                       |                                       |                       \-- OO
+                                        |                       |                                       |                           |-- false
+                                        |                       |                                       |                           \-- 2005
+                                        |                       |                                       |                               |-- false
+                                        |                       |                                       |                               \-- PHP
+                                        |                       |                                       |                                   |-- false
+                                        |                       |                                       |                                   \-- STOP
+                                        |                       |                                       |                                       |-- false
+                                        |                       |                                       |                                       \-- GAS
+                                        |                       |                                       |                                           |-- false
+                                        |                       |                                       |                                           \-- DAVID
+                                        |                       |                                       |                                               |-- false
+                                        |                       |                                       |                                               \-- WEDNESDAY
+                                        |                       |                                       |                                                   |-- false
+                                        |                       |                                       |                                                   \-- THOUSAND
+                                        |                       |                                       |                                                       |-- false
+                                        |                       |                                       |                                                       \-- false
+                                        |                       |                                       \-- SUBJECT
+                                        |                       |                                           |-- AM
+                                        |                       |                                           |   |-- true
+                                        |                       |                                           |   \-- false
+                                        |                       |                                           \-- AM
+                                        |                       |                                               |-- KITCHEN
+                                        |                       |                                               |   |-- true
+                                        |                       |                                               |   \-- CC
+                                        |                       |                                               |       |-- 853
+                                        |                       |                                               |       |   |-- true
+                                        |                       |                                               |       |   \-- |
+                                        |                       |                                               |       |       |-- true
+                                        |                       |                                               |       |       \-- OO
+                                        |                       |                                               |       |           |-- 2005
+                                        |                       |                                               |       |           |   |-- true
+                                        |                       |                                               |       |           |   \-- PHP
+                                        |                       |                                               |       |           |       |-- true
+                                        |                       |                                               |       |           |       \-- STOP
+                                        |                       |                                               |       |           |           |-- true
+                                        |                       |                                               |       |           |           \-- GAS
+                                        |                       |                                               |       |           |               |-- true
+                                        |                       |                                               |       |           |               \-- DAVID
+                                        |                       |                                               |       |           |                   |-- true
+                                        |                       |                                               |       |           |                   \-- WEDNESDAY
+                                        |                       |                                               |       |           |                       |-- true
+                                        |                       |                                               |       |           |                       \-- THOUSAND
+                                        |                       |                                               |       |           |                           |-- true
+                                        |                       |                                               |       |           |                           \-- true
+                                        |                       |                                               |       |           \-- false
+                                        |                       |                                               |       \-- 853
+                                        |                       |                                               |           |-- true
+                                        |                       |                                               |           \-- |
+                                        |                       |                                               |               |-- true
+                                        |                       |                                               |               \-- OO
+                                        |                       |                                               |                   |-- true
+                                        |                       |                                               |                   \-- 2005
+                                        |                       |                                               |                       |-- false
+                                        |                       |                                               |                       \-- PHP
+                                        |                       |                                               |                           |-- false
+                                        |                       |                                               |                           \-- STOP
+                                        |                       |                                               |                               |-- false
+                                        |                       |                                               |                               \-- GAS
+                                        |                       |                                               |                                   |-- false
+                                        |                       |                                               |                                   \-- DAVID
+                                        |                       |                                               |                                       |-- false
+                                        |                       |                                               |                                       \-- WEDNESDAY
+                                        |                       |                                               |                                           |-- false
+                                        |                       |                                               |                                           \-- THOUSAND
+                                        |                       |                                               |                                               |-- false
+                                        |                       |                                               |                                               \-- false
+                                        |                       |                                               \-- GAS
+                                        |                       |                                                   |-- KITCHEN
+                                        |                       |                                                   |   |-- false
+                                        |                       |                                                   |   \-- CC
+                                        |                       |                                                   |       |-- false
+                                        |                       |                                                   |       \-- 853
+                                        |                       |                                                   |           |-- false
+                                        |                       |                                                   |           \-- |
+                                        |                       |                                                   |               |-- false
+                                        |                       |                                                   |               \-- OO
+                                        |                       |                                                   |                   |-- false
+                                        |                       |                                                   |                   \-- 2005
+                                        |                       |                                                   |                       |-- false
+                                        |                       |                                                   |                       \-- PHP
+                                        |                       |                                                   |                           |-- false
+                                        |                       |                                                   |                           \-- STOP
+                                        |                       |                                                   |                               |-- false
+                                        |                       |                                                   |                               \-- DAVID
+                                        |                       |                                                   |                                   |-- false
+                                        |                       |                                                   |                                   \-- WEDNESDAY
+                                        |                       |                                                   |                                       |-- false
+                                        |                       |                                                   |                                       \-- THOUSAND
+                                        |                       |                                                   |                                           |-- false
+                                        |                       |                                                   |                                           \-- false
+                                        |                       |                                                   \-- KITCHEN
+                                        |                       |                                                       |-- false
+                                        |                       |                                                       \-- CC
+                                        |                       |                                                           |-- 853
+                                        |                       |                                                           |   |-- false
+                                        |                       |                                                           |   \-- |
+                                        |                       |                                                           |       |-- false
+                                        |                       |                                                           |       \-- OO
+                                        |                       |                                                           |           |-- false
+                                        |                       |                                                           |           \-- 2005
+                                        |                       |                                                           |               |-- false
+                                        |                       |                                                           |               \-- PHP
+                                        |                       |                                                           |                   |-- false
+                                        |                       |                                                           |                   \-- STOP
+                                        |                       |                                                           |                       |-- false
+                                        |                       |                                                           |                       \-- DAVID
+                                        |                       |                                                           |                           |-- false
+                                        |                       |                                                           |                           \-- WEDNESDAY
+                                        |                       |                                                           |                               |-- false
+                                        |                       |                                                           |                               \-- THOUSAND
+                                        |                       |                                                           |                                   |-- false
+                                        |                       |                                                           |                                   \-- false
+                                        |                       |                                                           \-- 853
+                                        |                       |                                                               |-- false
+                                        |                       |                                                               \-- |
+                                        |                       |                                                                   |-- false
+                                        |                       |                                                                   \-- OO
+                                        |                       |                                                                       |-- 2005
+                                        |                       |                                                                       |   |-- true
+                                        |                       |                                                                       |   \-- PHP
+                                        |                       |                                                                       |       |-- true
+                                        |                       |                                                                       |       \-- STOP
+                                        |                       |                                                                       |           |-- true
+                                        |                       |                                                                       |           \-- DAVID
+                                        |                       |                                                                       |               |-- true
+                                        |                       |                                                                       |               \-- WEDNESDAY
+                                        |                       |                                                                       |                   |-- true
+                                        |                       |                                                                       |                   \-- THOUSAND
+                                        |                       |                                                                       |                       |-- true
+                                        |                       |                                                                       |                       \-- true
+                                        |                       |                                                                       \-- 2005
+                                        |                       |                                                                           |-- false
+                                        |                       |                                                                           \-- PHP
+                                        |                       |                                                                               |-- false
+                                        |                       |                                                                               \-- STOP
+                                        |                       |                                                                                   |-- false
+                                        |                       |                                                                                   \-- DAVID
+                                        |                       |                                                                                       |-- false
+                                        |                       |                                                                                       \-- WEDNESDAY
+                                        |                       |                                                                                           |-- false
+                                        |                       |                                                                                           \-- THOUSAND
+                                        |                       |                                                                                               |-- true
+                                        |                       |                                                                                               \-- false
+                                        |                       \-- AM
+                                        |                           |-- true
+                                        |                           \-- QUESTIONS
+                                        |                               |-- false
+                                        |                               \-- MESSAGE
+                                        |                                   |-- false
+                                        |                                   \-- LET
+                                        |                                       |-- FW
+                                        |                                       |   |-- true
+                                        |                                       |   \-- POWER
+                                        |                                       |       |-- true
+                                        |                                       |       \-- false
+                                        |                                       \-- POWER
+                                        |                                           |-- FW
+                                        |                                           |   |-- false
+                                        |                                           |   \-- STOP
+                                        |                                           |       |-- false
+                                        |                                           |       \-- true
+                                        |                                           \-- MARK
+                                        |                                               |-- CALL
+                                        |                                               |   |-- true
+                                        |                                               |   \-- false
+                                        |                                               \-- |
+                                        |                                                   |-- true
+                                        |                                                   \-- PM
+                                        |                                                       |-- false
+                                        |                                                       \-- CALL
+                                        |                                                           |-- ORIGINAL
+                                        |                                                           |   |-- false
+                                        |                                                           |   \-- KITCHEN
+                                        |                                                           |       |-- false
+                                        |                                                           |       \-- SUBJECT
+                                        |                                                           |           |-- false
+                                        |                                                           |           \-- CC
+                                        |                                                           |               |-- false
+                                        |                                                           |               \-- FW
+                                        |                                                           |                   |-- false
+                                        |                                                           |                   \-- 853
+                                        |                                                           |                       |-- false
+                                        |                                                           |                       \-- OO
+                                        |                                                           |                           |-- true
+                                        |                                                           |                           \-- false
+                                        |                                                           \-- ORIGINAL
+                                        |                                                               |-- KITCHEN
+                                        |                                                               |   |-- false
+                                        |                                                               |   \-- SUBJECT
+                                        |                                                               |       |-- false
+                                        |                                                               |       \-- CC
+                                        |                                                               |           |-- false
+                                        |                                                               |           \-- FW
+                                        |                                                               |               |-- false
+                                        |                                                               |               \-- 853
+                                        |                                                               |                   |-- false
+                                        |                                                               |                   \-- OO
+                                        |                                                               |                       |-- false
+                                        |                                                               |                       \-- 2005
+                                        |                                                               |                           |-- false
+                                        |                                                               |                           \-- PHP
+                                        |                                                               |                               |-- false
+                                        |                                                               |                               \-- STOP
+                                        |                                                               |                                   |-- false
+                                        |                                                               |                                   \-- GAS
+                                        |                                                               |                                       |-- false
+                                        |                                                               |                                       \-- DAVID
+                                        |                                                               |                                           |-- false
+                                        |                                                               |                                           \-- WEDNESDAY
+                                        |                                                               |                                               |-- false
+                                        |                                                               |                                               \-- HOUSTON
+                                        |                                                               |                                                   |-- false
+                                        |                                                               |                                                   \-- THOUSAND
+                                        |                                                               |                                                       |-- false
+                                        |                                                               |                                                       \-- false
+                                        |                                                               \-- FW
+                                        |                                                                   |-- KITCHEN
+                                        |                                                                   |   |-- true
+                                        |                                                                   |   \-- SUBJECT
+                                        |                                                                   |       |-- true
+                                        |                                                                   |       \-- CC
+                                        |                                                                   |           |-- true
+                                        |                                                                   |           \-- 853
+                                        |                                                                   |               |-- false
+                                        |                                                                   |               \-- OO
+                                        |                                                                   |                   |-- false
+                                        |                                                                   |                   \-- 2005
+                                        |                                                                   |                       |-- false
+                                        |                                                                   |                       \-- PHP
+                                        |                                                                   |                           |-- false
+                                        |                                                                   |                           \-- STOP
+                                        |                                                                   |                               |-- false
+                                        |                                                                   |                               \-- GAS
+                                        |                                                                   |                                   |-- false
+                                        |                                                                   |                                   \-- DAVID
+                                        |                                                                   |                                       |-- false
+                                        |                                                                   |                                       \-- WEDNESDAY
+                                        |                                                                   |                                           |-- false
+                                        |                                                                   |                                           \-- HOUSTON
+                                        |                                                                   |                                               |-- false
+                                        |                                                                   |                                               \-- THOUSAND
+                                        |                                                                   |                                                   |-- false
+                                        |                                                                   |                                                   \-- false
+                                        |                                                                   \-- KITCHEN
+                                        |                                                                       |-- false
+                                        |                                                                       \-- SUBJECT
+                                        |                                                                           |-- false
+                                        |                                                                           \-- CC
+                                        |                                                                               |-- false
+                                        |                                                                               \-- 853
+                                        |                                                                                   |-- false
+                                        |                                                                                   \-- OO
+                                        |                                                                                       |-- 2005
+                                        |                                                                                       |   |-- true
+                                        |                                                                                       |   \-- PHP
+                                        |                                                                                       |       |-- true
+                                        |                                                                                       |       \-- STOP
+                                        |                                                                                       |           |-- true
+                                        |                                                                                       |           \-- GAS
+                                        |                                                                                       |               |-- true
+                                        |                                                                                       |               \-- DAVID
+                                        |                                                                                       |                   |-- true
+                                        |                                                                                       |                   \-- WEDNESDAY
+                                        |                                                                                       |                       |-- true
+                                        |                                                                                       |                       \-- HOUSTON
+                                        |                                                                                       |                           |-- true
+                                        |                                                                                       |                           \-- THOUSAND
+                                        |                                                                                       |                               |-- true
+                                        |                                                                                       |                               \-- true
+                                        |                                                                                       \-- 2005
+                                        |                                                                                           |-- false
+                                        |                                                                                           \-- PHP
+                                        |                                                                                               |-- false
+                                        |                                                                                               \-- STOP
+                                        |                                                                                                   |-- false
+                                        |                                                                                                   \-- GAS
+                                        |                                                                                                       |-- false
+                                        |                                                                                                       \-- DAVID
+                                        |                                                                                                           |-- false
+                                        |                                                                                                           \-- WEDNESDAY
+                                        |                                                                                                               |-- false
+                                        |                                                                                                               \-- HOUSTON
+                                        |                                                                                                                   |-- false
+                                        |                                                                                                                   \-- THOUSAND
+                                        |                                                                                                                       |-- false
+                                        |                                                                                                                       \-- false
+                                        \-- THE
+                                            |-- false
+                                            \-- SUBJECT
+                                                |-- true
+                                                \-- ORIGINAL
+                                                    |-- false
+                                                    \-- PM
+                                                        |-- false
+                                                        \-- KITCHEN
+                                                            |-- false
+                                                            \-- CC
+                                                                |-- false
+                                                                \-- SENT
+                                                                    |-- false
+                                                                    \-- 713
+                                                                        |-- false
+                                                                        \-- FW
+                                                                            |-- false
+                                                                            \-- JOHN
+                                                                                |-- false
+                                                                                \-- QUESTIONS
+                                                                                    |-- false
+                                                                                    \-- AM
+                                                                                        |-- false
+                                                                                        \-- CALL
+                                                                                            |-- false
+                                                                                            \-- 853
+                                                                                                |-- false
+                                                                                                \-- |
+                                                                                                    |-- false
+                                                                                                    \-- OO
+                                                                                                        |-- MESSAGE
+                                                                                                        |   |-- true
+                                                                                                        |   \-- 2005
+                                                                                                        |       |-- true
+                                                                                                        |       \-- PHP
+                                                                                                        |           |-- true
+                                                                                                        |           \-- STOP
+                                                                                                        |               |-- true
+                                                                                                        |               \-- POWER
+                                                                                                        |                   |-- true
+                                                                                                        |                   \-- KNOW
+                                                                                                        |                       |-- true
+                                                                                                        |                       \-- GAS
+                                                                                                        |                           |-- true
+                                                                                                        |                           \-- LET
+                                                                                                        |                               |-- true
+                                                                                                        |                               \-- MARK
+                                                                                                        |                                   |-- false
+                                                                                                        |                                   \-- DAVID
+                                                                                                        |                                       |-- false
+                                                                                                        |                                       \-- MONDAY
+                                                                                                        |                                           |-- false
+                                                                                                        |                                           \-- WEDNESDAY
+                                                                                                        |                                               |-- false
+                                                                                                        |                                               \-- HOUSTON
+                                                                                                        |                                                   |-- false
+                                                                                                        |                                                   \-- THOUSAND
+                                                                                                        |                                                       |-- false
+                                                                                                        |                                                       \-- false
+                                                                                                        \-- false
